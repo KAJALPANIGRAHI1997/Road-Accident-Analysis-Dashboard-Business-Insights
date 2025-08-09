@@ -1,7 +1,7 @@
 # Road-Accident-Analysis-Dashboard-Business-Insights
 Interactive Power BI dashboard analyzing road accident data (2021–2022) with KPIs, district-wise trends, road surface & type analysis, monthly/yearly patterns, severity levels, vehicle types, and hazards. Provides quick insights for road safety planning and data-driven decision-making.
 
-##📌 Overview
+## 📌 Overview
 This project is an interactive Power BI dashboard analyzing road accident data from 2021–2022. It delivers insights into accident trends, severity, road conditions, and vehicle types, helping stakeholders take data-driven safety actions.
 
 ## 📊 Key Features
